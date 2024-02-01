@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://rishavchanda.io)
+[![MasterHead](https://pbs.twimg.com/media/Fivwgv9X0AYM303?format=jpg&name=4096x4096)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm SWAPNIL CHOWDHURY</h1>
 <h3 align="center">IIIT KALYANI ECE '25 | 3⭐ CODECHEF | ASPIRING SOFTWARE DEVELOPER | COMPETITIVE PROGRAMMER | PYTHON/C PROGRAMMER</h3>
 <img align="left" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
